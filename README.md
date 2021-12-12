@@ -14,6 +14,12 @@ sh nmap.sh >>nmap.log
 ```
 ### targets are located in ips.txt
 
-# I did this for the fools located in this telegram chat https://t.me/MollyEskamOF
+## I did this for the fools located in this telegram chat https://t.me/MollyEskamOF
 
+### Complete report generated: 
 
+```
+http://176.58.108.132/whois.log
+http://176.58.108.132/traceroute.log
+ttps://176.58.108.132/nmap.log
+```
