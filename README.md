@@ -8,7 +8,9 @@ sh install.sh
 ```
 # running
 ```
-sh whois.sh >>whois.log && sh traceroute.sh >>traceroute.log && sh nmap.sh >>nmap.log
+sh whois.sh >>whois.log 
+sh traceroute.sh >>traceroute.log
+sh nmap.sh >>nmap.log
 ```
 ### targets are located in ips.txt
 
