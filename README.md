@@ -21,5 +21,5 @@ sh nmap.sh >>nmap.log
 ```
 http://176.58.108.132/whois.log
 http://176.58.108.132/traceroute.log
-ttps://176.58.108.132/nmap.log
+http://176.58.108.132/nmap.log
 ```
